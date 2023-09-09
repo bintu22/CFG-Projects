@@ -17,7 +17,7 @@ Tables
 * OrderDetails
 * FurnitureCategories
 <br /> 
-SQL Queries: SQL Queries.txt <br /> 
+SQL Queries: SQL Queries.sql <br /> 
 <br /> 
 CSVs of SQL Queries <br /> 
 * Orders_By_Category <br /> 
