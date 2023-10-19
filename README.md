@@ -26,7 +26,7 @@ CSVs of SQL Queries <br />
 * Sales_By_Customer
 <br />
 <br /> 
-Tableau Dashboard: https://public.tableau.com/app/profile/bintu.bukari1987/viz/E-CommerceStore/E-CommerceDashboard?fbclid=IwAR1sxveZd2FBM4oYpKxBY6lM4QcFL6dJCTbaMzS6HMxqmp9Js5Pgt8wuIFQ
+Tableau Dashboard: https://public.tableau.com/app/profile/bintu.bukari/viz/E-CommerceStore_16976802019780/E-CommerceDashboard
 <br /> 
 <br /> 
 E-Commerce Data Set: https://www.kaggle.com/datasets/benroshan/ecommerce-data/code?datasetId=615631&fbclid=IwAR01DnlLMtVJZFk1CXKaLcqV24MSRqBaoDS2NzajJR5pOST7clKt6nKVpaA
